@@ -9,16 +9,9 @@
 
 ### 📚 Links to my repositories: 
 
-#### 🔗 Individual projects at [Adalab](https://github.com/Adalab):
-- [![Module 1](https://img.shields.io/badge/Module%201-blue)](https://github.com/Almudenaen/bda-modulo-1-evaluacion-final-Almudenaen)
-- [![Module 2](https://img.shields.io/badge/Module%202-blue)](https://github.com/Almudenaen/bda-modulo-2-evaluacion-final-Almudenaen)
-- [![Module 3](https://img.shields.io/badge/Module%203-blue)](https://github.com/Almudenaen/bda-modulo-3-evaluacion-final-Almudenaen)
+#### Projects at [Adalab](https://github.com/Adalab) bootcamp:
 
-
-#### 🔗 Group projects at [Adalab](https://github.com/Adalab):
-- [![Module 1](https://img.shields.io/badge/Module%201-blue)](https://github.com/Almudenaen/proyecto-da-promo-52-modulo-1-equipo-4)
-- [![Module 2](https://img.shields.io/badge/Module%202-blue)](https://github.com/Almudenaen/proyecto-da-promo-52-modulo-2-equipo-4)
-- [![Module 3](https://img.shields.io/badge/Module%203-blue)](https://github.com/Almudenaen/proyecto-da-promo-52-modulo-3-equipo-4)
-- [![Module 4](https://img.shields.io/badge/Module%204.1-blue)](https://github.com/Almudenaen/proyecto-da-promo-52-modulo-4-proyecto-1-equipo-3)
-- [![Module 4](https://img.shields.io/badge/Module%204.2-blue)](https://github.com/Almudenaen/proyecto-da-promo-52-modulo-4-proyecto-2-equipo-4)
+| 🔗 Individual  | 🔗 Team |
+|--------------------------------------------------------------|----------------------------------------------------------|
+| [![Module 1](https://img.shields.io/badge/Module%201-blue)](https://github.com/Almudenaen/bda-modulo-1-evaluacion-final-Almudenaen) [![Module 2](https://img.shields.io/badge/Module%202-blue)](https://github.com/Almudenaen/bda-modulo-2-evaluacion-final-Almudenaen) [![Module 3](https://img.shields.io/badge/Module%203-blue)](https://github.com/Almudenaen/bda-modulo-3-evaluacion-final-Almudenaen) | [![Module 1](https://img.shields.io/badge/Module%201-blue)](https://github.com/Almudenaen/proyecto-da-promo-52-modulo-1-equipo-4)   [![Module 2](https://img.shields.io/badge/Module%202-blue)](https://github.com/Almudenaen/proyecto-da-promo-52-modulo-2-equipo-4) [![Module 3](https://img.shields.io/badge/Module%203-blue)](https://github.com/Almudenaen/proyecto-da-promo-52-modulo-3-equipo-4)                                                                [![Module 4.1](https://img.shields.io/badge/Module%204.1-blue)](https://github.com/Almudenaen/proyecto-da-promo-52-modulo-4-proyecto-1-equipo-3)                                                                [![Module 4.2](https://img.shields.io/badge/Module%204.2-blue)](https://github.com/Almudenaen/proyecto-da-promo-52-modulo-4-proyecto-2-equipo-4) |
 
